@@ -1,0 +1,10 @@
+command: node index.js
+config: {}
+description: tutorial
+name: fall2017-halo60-hello
+source:
+  type: git
+  url: https://github.com/joseph349/ParadropTutorial
+type: light
+use: node
+version: 1
